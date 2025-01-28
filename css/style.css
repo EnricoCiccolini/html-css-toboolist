@@ -4,19 +4,28 @@
     box-sizing: border-box;
   }
 
+
   header {
     height: 70px;
+
  
   }
+.logo{ vertical-align:middle;
 
+}
 .banner{
    
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     font-weight: bold;
-    display: inline;
+    display: inline-block;
     border-bottom: 72px;
+    vertical-align:middle;
     
+}
+
+section{
+    margin-left: 220px;
 }
 
 .botton{
@@ -32,6 +41,8 @@
     ;
   }
   .white {
+    border: 2px solid #d3d8dc;
     background-color: #fff;
     color: #d3d8dc;
+    
   }
