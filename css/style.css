@@ -17,4 +17,20 @@
     display: inline;
     
 }
-  
+
+.botton{
+    width: 29px;
+    height: 69px;
+    display: inline;
+}
+
+
+  .blue{
+    background-color: #14aaf5;
+    color: #fff
+    ;
+  }
+  .white {
+    background-color: #fff;
+    color: #d3d8dc;
+  }
