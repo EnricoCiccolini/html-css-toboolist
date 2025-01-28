@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
   }
 
 
@@ -30,7 +32,7 @@ section{
 }
 
 .botton{
-    padding: 20px;
+    padding: 15px;
     display: inline;
     border-radius: 8%;
 }
@@ -54,11 +56,49 @@ section{
     display: inline;
     border-radius: 50%;
     border: 2px solid #2cc6ad;
+    vertical-align:middle;
+
+  }
+
+
+  .todoo{
+    color: #ff1010;
+    padding: 1px;
+    display: inline;
+    border-radius: 50%;
+    border: 2px solid #ff1010;
+    vertical-align:middle;
 
   }
 
   .tipologia{
-    padding: 5px;
+    padding: 2px;
     display: inline;
     border-radius: 15%;
+    margin-top: 50px;
+    margin-bottom: 50px;
   }
+
+  .viola {
+    background-color: #ab5de6;
+    color: #fff;
+}
+
+.verde {
+    background-color: #2cc6ad;
+    color: #fff;
+}
+
+.arancio {
+    background-color: #ff9b00;
+    color: #fff;
+}
+
+.rosa {
+    background-color: #ec4a9d;
+    color: #fff;
+}
+.limone {
+    background-color: #a3d113;
+    color: #fff;
+}
